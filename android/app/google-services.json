@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "project_number": "182962259301",
+    "project_id": "trilha-do-tomate",
+    "storage_bucket": "trilha-do-tomate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182962259301:android:cbc4ef2a5c829216c44d8c",
+        "android_client_info": {
+          "package_name": "com.gaianet.Sicily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182962259301-n6bkpgq83qimpgaijue67l8h5g17pk8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaianet.Sicily",
+            "certificate_hash": "c11ccaa77af6aa32ae8dd396f617e054b6ae88e0"
+          }
+        },
+        {
+          "client_id": "182962259301-srj4hcq0cpq7i0niqo39pbvmt7fmim72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaianet.Sicily",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "182962259301-9iessf6vbv6ru998qnjmmqop0l2mus1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6-3aemrKnwDTUEZETJJK2rwxnLtMelss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182962259301-9hle1suc5f379ll363aa88u7ao5nqepu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182962259301-3k933es6hs23lga6m06p79pcujj1cq4c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gaianet.Sicily"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182962259301:android:e7b5a05801e3d55fc44d8c",
+        "android_client_info": {
+          "package_name": "com.gaianet.SicilyExperience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182962259301-2uccesarkb5h9ichbvte4tna18ro5fs4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaianet.SicilyExperience",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "182962259301-9iessf6vbv6ru998qnjmmqop0l2mus1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6-3aemrKnwDTUEZETJJK2rwxnLtMelss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182962259301-9hle1suc5f379ll363aa88u7ao5nqepu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182962259301-3k933es6hs23lga6m06p79pcujj1cq4c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gaianet.Sicily"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182962259301:android:feb3568d427b7472c44d8c",
+        "android_client_info": {
+          "package_name": "com.gaianet.appbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182962259301-kssl6q377rpm6e1h4q56005vntqfp8h2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaianet.appbase",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "182962259301-9iessf6vbv6ru998qnjmmqop0l2mus1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6-3aemrKnwDTUEZETJJK2rwxnLtMelss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182962259301-9hle1suc5f379ll363aa88u7ao5nqepu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182962259301-3k933es6hs23lga6m06p79pcujj1cq4c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gaianet.Sicily"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

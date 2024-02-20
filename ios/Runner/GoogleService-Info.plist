@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>182962259301-3k933es6hs23lga6m06p79pcujj1cq4c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.182962259301-3k933es6hs23lga6m06p79pcujj1cq4c</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>182962259301-2uccesarkb5h9ichbvte4tna18ro5fs4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBeHKjj-9ETzYAXSb4Ctk9qqf8g-uolggI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>182962259301</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gaianet.Sicily</string>
+	<key>PROJECT_ID</key>
+	<string>trilha-do-tomate</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trilha-do-tomate.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:182962259301:ios:8c88f8cdb789399dc44d8c</string>
+</dict>
+</plist>

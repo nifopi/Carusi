@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "Para digitalizar códigos de barras e códigos QR, este aplicativo requer permissão para acessar a câmera.";
+NSMicrophoneUsageDescription = "Para gravar áudio para vídeo, este aplicativo requer permissão para acessar o microfone.";
+NSPhotoLibraryUsageDescription = "Para fazer upload de dados, este aplicativo requer permissão para acessar a biblioteca de fotos.";
